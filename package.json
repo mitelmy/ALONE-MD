@@ -1,5 +1,5 @@
 {
-  "name": "zokou-2.0",
+  "name": "alone-2.0",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -17,16 +17,16 @@
     "Zokou",
     "whatsapp",
     "whatsapp-bot",
-    "Fedora",
-    "FaouzKK"
+    "alone",
+    "boy"
   ],
-  "author": "Fedora && FaouzKK",
+  "author": "Aloneboytech",
   "license": "ISC",
   "dependencies": {
     "@faouzkk/lyrics-finder": "^1.0.3",
     "@hapi/boom": "^10.0.1",
     "@types/node": "^18.0.6",
-    "@whiskeysockets/baileys": "github:Luffy2ndAccount/Baileys",
+    "@whiskeysockets/baileys": "AloneboytechAccount/Baileys",
     "@xaviabot/fb-downloader": "^1.0.14",
     "aptoide-scraper": "github:Nignanfatao/aptoide_apk_dl",
     "axios": "^0.27.2",
