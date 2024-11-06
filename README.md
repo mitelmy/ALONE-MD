@@ -1,7 +1,8 @@
 # ALONE-MD 
 
 ##
-![spider](https://github.com/user-attachments/assets/d98c3b3c-f48e-497f-a083-5c3854085b7e)
+![spider](https://github.com/user-attachments/assets/7b4f13aa-c9fe-4ebc-8ebe-4542c35d4be1)
+
 
 ## How to Get ALONE-MD 
 
