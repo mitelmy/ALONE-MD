@@ -1,7 +1,7 @@
 # ALONE MD
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By ALONE BOY TECH x david Cyril (thanks to Cyril) ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Coded By david Cyril (thanks to david Cyril) alone boy tech ⚡</u>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/LEe0hSA.jpeg"/>       
