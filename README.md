@@ -1,7 +1,7 @@
-  # Gojou-MD
+# ALONE MD
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Coded By ALONE BOY TECH x david Cyril (thanks to Cyril) ⚡</u>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/LEe0hSA.jpeg"/>       
@@ -12,31 +12,45 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ALONE_BOY-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Itachi_Uchiha-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Itachi_Uchiha-Md?color=yellow&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Itachi_Uchiha-Md?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Aloneboytech/ALONE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aloneboytech/alone-md?color=blue&style=flat-square"></a>
+<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aloneboytech/alone-md?color=yellow&style=flat-square"></a>
+<a href="https://https://github.com/Aloneboytech/ALONE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aloneboytech/alone-md?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Aloneboytech/ALONE-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-#
 
-## Gojou-MD Deployment Methods
+
+## ALONE-MD Deployment Methods
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Aloneboytech/ALONE-MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/pair) 
- OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
+1. Click on Fork repo <br>
+
+<a href="https://github.com/Aloneboytech/ALONE-MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+2. Obtain a bot session: 
+
+<a href='https://alone-boy-session.onrender.com' target="_blank">
+    <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
+</a>
+
+##
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Gojou-MD)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VapPYSCHQbS1HWZr0y07) for more**
 9. **All Tutorials Are `COMING SOON`**
+10. 
+
+##
+<a href='https://alone-boy-session.onrender.com' target="_blank">
+    <img alt='PAIR CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=Blue&color=Blue'/>
+</a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/554488122687"><img src="https://img.shields.io/badge/Contact alone boy-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/@HacktivistHive"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@HacktivistHive" /><br>
+<a href="https://www.youtube.com/@alone-boy-tech"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@alone-boy-tech" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
